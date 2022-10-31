@@ -17,7 +17,7 @@
 
 </pre> 
 
-<img width="100%" alt="game gif" src="https://github.com/quimir/github-contribution-grid-snake.svg"/>
+<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
 
 ### ⭐️ &nbsp;Github Star
 
