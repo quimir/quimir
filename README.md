@@ -29,7 +29,7 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=OpenGL)
 ![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=Qt)
-![Win32](https://img.shields.io/badge/-Win32-333333?style=flat&logo=Win32api)
+![MFC](https://img.shields.io/badge/-MFC-333333?style=flat&logo=MFC)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 
 ### 🤝🏻 &nbsp;Connect with Me
