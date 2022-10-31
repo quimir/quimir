@@ -17,7 +17,7 @@
 
 </pre> 
 
-![](https://raw.githubusercontent.com/quimir/quimir/main/assets/github-contribution-grid-snake.svg)
+![RunSnake](https://raw.githubusercontent.com/quimir/quimir/main/assets/github-contribution-grid-snake.svg)
 
 ### ⭐️ &nbsp;Github Star
 
