@@ -27,9 +27,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![Cplusplus](https://img.shields.io/badge/-CPlusPlus-333333?style=flat&logo=CPlusPlus)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
+![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=OpenGL)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 
 ### 🤝🏻 &nbsp;Connect with Me
