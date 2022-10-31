@@ -25,8 +25,8 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![cplusplus](https://img.shields.io/badge/-cpluscplus-333333?style=flat&logo=CPlusPlus)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![CPlusPlus](https://img.shields.io/badge/-CPlusPlus333333?style=flat&logo=CPlusPlus)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
