@@ -25,7 +25,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![CPlusPlus](https://img.shields.io/badge/-CPlusPlus333333?style=flat&logo=CPlusPlus)
+![Cplusplus](https://img.shields.io/badge/-CPlusPlus333333?style=flat&logo=Cplusplus)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
