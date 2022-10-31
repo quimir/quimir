@@ -13,7 +13,7 @@
      
 <strong>Hi, I am quimir!👋 </strong>
 
-<strong>A full stack developer from China🇨🇳. </strong>
+<strong>A Game Engine developer from China🇨🇳. </strong>
 
 </pre> 
 
