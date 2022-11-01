@@ -30,6 +30,7 @@
 ![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=OpenGL)
 ![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=Qt)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+![unity](https://img.shields.io/badge/-unity-333333?style=flat&logo=unity)
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:2546670299@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2546670299@qq.com-blue?style=flat-square&logo=gmail"></a>
