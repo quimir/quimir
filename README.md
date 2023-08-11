@@ -17,7 +17,6 @@
 
 </pre> 
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/quimir/quimir/assets/github-contribution-grid-snake.svg" /></div>
 
 ### ⭐️ &nbsp;Github Star
 
